@@ -1,10 +1,10 @@
 ## Tomatoes Diseases Clasification
 
-Tomatoes is most production vegetables in this world froms statista 186.82 million metric tons of Tomatoes were produced. from this we can assume that massive of tomatoes crop, and for ensure the quality of that it must be carefully maintain.
+Tomatoes is most production vegetables in this world froms statista 186.82 million metric tons of Tomatoes were produced. from this we can assume that massive of tomatoes crop, and for ensure the quality of that it must be carefully maintain.<br/>
 From that problem I want make prediction app for classification tomatoes to make maintain this more easy just click and we know the problem of tomatoes
 
 # Data Collection
-The data I got from kaggle plant Village,
+The data I got from kaggle [plant Village](https://www.kaggle.com/emmarex/plantdisease),
 the contain is picture of tomatoes plant and the contisition
 
 # EDA
@@ -20,4 +20,4 @@ the contain is picture of tomatoes plant and the contisition
 -Next day
 1. Build Model
 Source:
-Shoutout to CodeBasic for the playslist
+Shoutout to [CodeBasic](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD) for the project
