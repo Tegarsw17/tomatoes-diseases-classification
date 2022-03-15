@@ -17,8 +17,10 @@ the contain is picture of tomatoes plant and the contisition
 6. apply chance and prefetch
 7. data augmentaiton
 
--Next day
-1. Build Model
+-March 16, 2022
+1. Build Model with CNN
+2. the model broken
+3. next day repair the model again
 
 Source:
 Shoutout to [CodeBasic](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD) for the project
